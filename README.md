@@ -1,2 +1,2 @@
-# SportsPose-parser
-SportsPose-Parser for Monocular / Multi-View Pose Estimation
+Contents
+- Reference SportsPose dataset code in [SportsPose official repository](https://github.com/ChristianIngwersen/SportsPose)
